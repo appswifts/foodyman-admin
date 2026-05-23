@@ -1,23 +1,19 @@
 export const steps = [
   {
-    title: 'License Info',
+    title: 'Project Info',
     content: 'First-content',
   },
   {
-    title: 'Project Info',
+    title: 'Project access Info',
     content: 'Second-content',
   },
   {
-    title: 'Project access Info',
+    title: 'Database Info',
     content: 'Third-content',
   },
   {
-    title: 'Database Info',
-    content: 'Fourth-content',
-  },
-  {
     title: 'User Info',
-    content: 'Fifth-content',
+    content: 'Fourth-content',
   },
   // {
   //   title: 'System Info',
